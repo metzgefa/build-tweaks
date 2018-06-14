@@ -1,0 +1,6 @@
+{
+    "parent": "buildtweaks:block/blockMachineFrameResonant",
+    "textures": {
+        "layer0": "buildtweaks:blocks/blockMachineFrameResonant"
+    }
+}

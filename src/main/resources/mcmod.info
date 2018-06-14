@@ -1,0 +1,17 @@
+[
+{
+  "modid": "buildtweaks",
+  "name": "Build Tweaks",
+  "description": "Items for crafting in Minecraft Build Modpack",
+  "version": "${version}",
+  "mcversion": "1.2.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Fabian Metzger"],
+  "credits": "All the good mods!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [],
+  "requiredMods": ["Forge","thermalexpansion"]
+}
+]

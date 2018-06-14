@@ -1,0 +1,5 @@
+item.buildtweaks:itemPressedBlutonium.name=Pressed Blutonium Ingot
+tile.buildtweaks:blockMachineFrameBasic.name=Basic Machine Frame
+tile.buildtweaks:blockMachineFrameHardened.name=Hardened Machine Frame
+tile.buildtweaks:blockMachineFrameReinforced.name=Reinforced Machine Frame
+tile.buildtweaks:blockMachineFrameResonant.name=Resonant Machine Frame

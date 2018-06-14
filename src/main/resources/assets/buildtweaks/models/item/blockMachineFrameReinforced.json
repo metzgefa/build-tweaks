@@ -1,0 +1,6 @@
+{
+    "parent": "buildtweaks:block/blockMachineFrameReinforced",
+    "textures": {
+        "layer0": "buildtweaks:blocks/blockMachineFrameReinforced"
+    }
+}

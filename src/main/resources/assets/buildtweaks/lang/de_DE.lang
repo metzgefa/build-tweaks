@@ -1,0 +1,5 @@
+item.buildtweaks:itemPressedBlutonium.name=Gepresster Blutonium Barren
+tile.buildtweaks:blockMachineFrameBasic.name=Grundmaschinenrahmen
+tile.buildtweaks:blockMachineFrameHardened.name=Gehärteter Maschinenrahmen
+tile.buildtweaks:blockMachineFrameReinforced.name=Verstärkter Maschinenrahmen
+tile.buildtweaks:blockMachineFrameResonant.name=Resonanter Maschinenrahmen
